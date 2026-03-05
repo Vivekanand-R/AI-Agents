@@ -55,7 +55,7 @@ List of AI Agents Protocol's:
 ----------------------------------------
                          
 
- **Agent 2 - Finance Analyst: Automating Fintech And Equity Transactions** [Completed Version]
+ **Agent 2 - Finance Analyst: Automating Fintech Transactions** [Completed Version]
 
 Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent fintech actions. Enabling precision and speed through scalable, autonomous decision-making.
 
@@ -63,7 +63,7 @@ Vision: To explore and harness agentic AI in global financial markets using **cl
 
 **Cloud Requirement's:** Azure Cloud Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
 
-Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
+Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (OS), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
 
 Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
 
@@ -80,14 +80,6 @@ Architecture: (Linear Execution Top to Bottom)
 **Architecture: (More Autonomous Execution):**
 
 <img width="793" height="531" alt="image" src="https://github.com/user-attachments/assets/90015ded-1576-4a3d-a7f4-97324ca75164" />
-
-
-**Sample Live Results:**
-
-<img width="1642" height="537" alt="image" src="https://github.com/user-attachments/assets/27e2d800-2057-4e39-a3dc-21421cc0159e" />
-
-<img width="1150" height="601" alt="image" src="https://github.com/user-attachments/assets/a2458510-78dd-417d-b554-75afa02d8e16" />
-
        
 A strong foundation in financial knowledge is prefered for this work. It aims to explore and apply AI agent technologies within the fintech and automation sectors, focusing on practical and innovative use cases.
   
@@ -116,7 +108,7 @@ Optional AI hosting: Hugging Face Inference API or OpenAI API
 
 **Advanced - Multi Model Agentic workflow (end-to-end):** 
 
-                1. CT/X-Ray Clinicials uploads/requests analysis → system ingests study + context
+                1. Clinicials uploads/requests analysis → system ingests study + context
                 
                 2. Vision AI produces segmentation/detection + measurements + QC
                 
@@ -200,14 +192,6 @@ A multi-modal, AI-native observability platform that:
                 G. Blockchain-backed immutable logs (optional).
 
 
-**Devices / Equipment Across Industries**
-
-                **A. Manufacturing & Robotics** CNC machines, Assembly line robots, Welding robots, 3D printers, Industrial sensors (temperature, vibration, pressure)
-                **B. Energy & Utilities:** Turbines (wind, gas, hydro), Generators, Transformers, Smart meters, Grid controllers
-                **C. Smart Factories / IoT** Edge gateways, PLCs (Programmable Logic Controllers), Industrial IoT devices (sensors, actuators), Conveyor systems, Smart warehouse robots
-                **D. Healthcare & MedTech:** CT scanners, MRI machines, Ultrasound machines, X-ray equipment, Patient monitoring systems
-                **E. Transportation & Mobility:** Autonomous vehicles (sensors, LIDAR, cameras), EV charging stations, Railway signaling systems
-                **F. Engines & systems:** Fleet telematics devices, Cybersecurity & IT Infrastructure, Firewalls & IDS/IPS systems, Application servers & databases, Cloud workloads (containers, microservices), Industrial control systems (SCADA, DCS), Blockchain nodes (for immutable logging)
 
 **Use Cases:** Predict machine downtime, detect cyber threats, summarize IoT floods, Field operators query with alerts/voice, SME's will get AI reports.
 
