@@ -1,5 +1,4 @@
 # Agentic-AI-Framework  
-### Towards a Knowledge Framework for Enterprise Leadership
 
 **Designing, Building, and Scaling Agentic AI Systems, Products, and Organizations**
 
